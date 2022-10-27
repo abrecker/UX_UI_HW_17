@@ -1,0 +1,84 @@
+.logo{
+  margin-left: 1%;
+  width: 23%;
+  padding: 1%;
+  text-align: center;
+}
+
+.nav{
+  display: flex;
+  background-color: #464485;
+}
+
+.primeheader{
+    display: flex;
+    background-color: #464485;
+    padding: 1%;
+    width: auto;
+    text-align: center;
+    color: #EFEAE1;
+    vertical-align: top;
+    list-style: none;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 73%;
+    width:73%
+}
+
+.about{
+  margin-right: 5%;
+  margin-left: 5%;
+}
+.portfolio{
+  margin-right: 5%;
+}
+.resume{
+  margin-right: 5%;
+}
+.contact{
+  margin-right: 5%;
+}
+
+.content{
+  display: flex;
+  align-items: center;
+  margin:auto;
+}
+
+.heroimg{
+  padding: 25pt;
+}
+.intro{
+  width: 500px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+footer{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #464485;
+  display:flex;
+  justify-content: left;
+  align-items:flex-start;
+}
+
+.footerwords li{
+  display: inline-block;
+  padding: 0px 5px;
+}
+
+.logo2{
+  margin-left: 1%;
+  width: 23%;
+  padding: 1%;
+  text-align: left;
+}
+
+.footerwords{
+  display: inline-block;
+  padding: 10px 175px;
+  color:#EFEAE1;
+  text-align: center;
+}
